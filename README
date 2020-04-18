@@ -4,3 +4,5 @@ This simple daemon help you to limit the outbound rate of Postfix servers. Uses 
 or domain rate limits
 
 For INSTALL doc refer to http://www.simonecaruso.com/limit-sender-rate-in-postfix/
+
+I'm gonna change it !
